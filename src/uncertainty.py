@@ -1,52 +1,38 @@
-import pandas as pd
+# src/uncertainty.py
+
 import numpy as np
 
-def compute_uncertainty(predictions_df):
+def get_confidence(clf, X):
     """
-    Compute confidence scores and flag low-confidence predictions.
-    
-    Confidence: Scaled distance from 0.5 (max uncertainty). 
-    A probability of 0.5 means a 0.0 confidence score.
-    A probability of 0.0 or 1.0 means a 1.0 confidence score.
+    Returns max class probability for each sample.
+    Higher = more confident.
+    With 6 classes, random baseline = 0.167
     """
-    # Using normalized distance from 0.5
-    # For binary classification: 2 * abs(prob - 0.5)
-    # 0.5 -> 0.0 (uncertain)
-    # 1.0 -> 1.0 (certain)
-    # 0.0 -> 1.0 (certain)
-    
-    probs = predictions_df['Probability']
-    confidence_scores = 2 * np.abs(probs - 0.5)
-    
-    # Flag cases with confidence less than a certain threshold (e.g., 0.3)
-    # A confidence score of 0.3 means prob between 0.35 and 0.65.
-    uncertain_flag = (confidence_scores < 0.3).astype(int)
-    
-    results = predictions_df.copy()
-    results['ConfidenceScore'] = confidence_scores
-    results['IsUncertain'] = uncertain_flag
-    
-    return results
+    proba = clf.predict_proba(X)       # shape: (n, n_classes)
+    confidence = proba.max(axis=1)     # highest prob per row
+    return confidence
 
-def main():
-    """Enhance predictions with uncertainty analysis."""
-    input_path = 'outputs/predictions.csv'
-    
-    if not pd.api.types.is_file_like(input_path):
-        import os
-        if not os.path.exists(input_path):
-            print(f"Error: {input_path} not found. Run predict.py first.")
-            return
 
-    # Load previously generated predictions
-    preds_df = pd.read_csv(input_path)
-    
-    # Apply uncertainty logic
-    enhanced_df = compute_uncertainty(preds_df)
-    
-    # Overwrite the predictions.csv with enhanced fields
-    enhanced_df.to_csv(input_path, index=False)
-    print("Uncertainty analysis complete. Updated outputs/predictions.csv with ConfidenceScore and IsUncertain.")
+def get_uncertain_flag(confidence, is_short, signal_conflict,
+                       reflection_quality, threshold=0.50):
+    """
+    Flag a prediction as uncertain when ANY of these are true:
+      1. Model confidence below threshold
+      2. Input text is very short (<=5 words)
+      3. Face emotion contradicts stress level
+      4. Reflection quality is 'conflicted'
 
-if __name__ == "__main__":
-    main()
+    threshold=0.50: below 50% confidence on 6-class → genuinely unsure
+    """
+    low_confidence  = confidence < threshold
+    short_text      = np.array(is_short).astype(bool)
+    conflict        = np.array(signal_conflict).astype(bool)
+    conflicted_refl = np.array(
+        [1 if q == 'conflicted' else 0 for q in reflection_quality]
+    ).astype(bool)
+
+    uncertain_flag = (
+        low_confidence | short_text | conflict | conflicted_refl
+    ).astype(int)
+
+    return uncertain_flag
