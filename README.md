@@ -246,6 +246,26 @@ A high uncertain rate is not a failure. It means the system knows its own limits
 
 ---
 
+## Results & Visualizations
+
+### Confusion Matrix
+![Confusion Matrix](outputs/confusion_matrix.png)
+Shows which emotional states get confused most often.
+Mixed and focused are the hardest to separate.
+
+### Prediction Confidence Distribution
+![Confidence](outputs/confidence_distribution.png)
+75.8% of test predictions fall below the 0.50 confidence
+threshold — reflecting the genuine ambiguity in short journal texts.
+
+### Learning Curve
+![Learning Curve](outputs/learning_curve.png)
+Validation F1 plateaus around 60% training data, suggesting
+more data would help but the gap between train and val
+indicates some overfitting on the text features.
+
+---
+
 ## Output Format
 
 `outputs/predictions.csv` contains 120 rows with these columns:

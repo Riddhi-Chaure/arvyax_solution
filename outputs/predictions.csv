@@ -1,121 +1,121 @@
 id,predicted_state,predicted_intensity,confidence,uncertain_flag,what_to_do,when_to_do,supportive_message
-10001,focused,3,0.742,0,deep_work,tomorrow_morning,You seem focused with intensity 3. Try deep work tomorrow morning to help shift into a better state.
-10002,focused,4,0.302,1,rest,later_today,You seem focused with intensity 4. Try rest later today to help shift into a better state.
-10003,focused,5,0.289,1,journaling,tonight,You seem focused with intensity 5. Try journaling tonight to help shift into a better state.
-10004,focused,4,0.63,0,journaling,within_15_min,You seem focused with intensity 4. Try journaling within 15 min to help shift into a better state.
-10005,neutral,4,0.237,1,rest,within_15_min,You seem neutral with intensity 4. Try rest within 15 min to help shift into a better state.
-10006,mixed,4,0.252,1,journaling,now,You seem mixed with intensity 4. Try journaling now to help shift into a better state.
-10007,restless,4,0.382,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before you try to move forward.
-10008,overwhelmed,3,0.598,0,box_breathing,within_15_min,You seem overwhelmed with intensity 3. Try box breathing within 15 min to help shift into a better state.
-10009,restless,4,0.548,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before you try to move forward.
-10010,overwhelmed,2,0.399,1,rest,tomorrow_morning,You seem overwhelmed with intensity 2. Try rest tomorrow morning to help shift into a better state.
-10011,overwhelmed,4,0.555,0,box_breathing,now,"You seem to be carrying a lot right now. Before anything else, try 4 slow box breaths — just 2 minutes can ease the weight."
-10012,calm,1,0.22,1,light_planning,later_today,You seem calm with intensity 1. Try light planning later today to help shift into a better state.
-10013,focused,1,0.209,1,deep_work,later_today,You seem focused with intensity 1. Try deep work later today to help shift into a better state.
-10014,focused,3,0.542,1,journaling,later_today,You seem focused with intensity 3. Try journaling later today to help shift into a better state.
-10015,calm,4,0.367,1,deep_work,within_15_min,"You're settled and clear. Give yourself 10 minutes to set up, then dive into focused work."
-10016,neutral,4,0.271,1,journaling,now,You seem neutral with intensity 4. Try journaling now to help shift into a better state.
-10017,mixed,3,0.631,1,rest,now,You seem mixed with intensity 3. Try rest now to help shift into a better state.
-10018,mixed,4,0.709,0,grounding,now,Your signals are a bit mixed right now. Try a 5-minute grounding exercise before deciding your next step.
-10019,focused,4,0.426,1,deep_work,later_today,You seem focused with intensity 4. Try deep work later today to help shift into a better state.
-10020,focused,4,0.202,1,rest,tonight,You seem focused with intensity 4. Try rest tonight to help shift into a better state.
-10021,overwhelmed,3,0.744,0,rest,now,You seem overwhelmed with intensity 3. Try rest now to help shift into a better state.
-10022,calm,2,0.691,0,deep_work,within_15_min,"You're settled and clear. Give yourself 10 minutes to set up, then dive into focused work."
-10023,neutral,4,0.369,1,rest,tomorrow_morning,You seem neutral with intensity 4. Try rest tomorrow morning to help shift into a better state.
-10024,neutral,4,0.247,1,grounding,now,You seem neutral with intensity 4. Try grounding now to help shift into a better state.
-10025,calm,1,0.238,1,rest,within_15_min,You seem calm with intensity 1. Try rest within 15 min to help shift into a better state.
-10026,overwhelmed,1,0.555,0,box_breathing,now,"You seem to be carrying a lot right now. Before anything else, try 4 slow box breaths — just 2 minutes can ease the weight."
-10027,focused,5,0.208,1,journaling,tonight,You seem focused with intensity 5. Try journaling tonight to help shift into a better state.
-10028,calm,2,0.205,1,light_planning,later_today,You seem calm with intensity 2. Try light planning later today to help shift into a better state.
-10029,overwhelmed,3,0.779,1,box_breathing,within_15_min,You seem overwhelmed with intensity 3. Try box breathing within 15 min to help shift into a better state.
-10030,mixed,4,0.235,1,rest,tomorrow_morning,You seem mixed with intensity 4. Try rest tomorrow morning to help shift into a better state.
-10031,focused,4,0.592,0,rest,within_15_min,You seem focused with intensity 4. Try rest within 15 min to help shift into a better state.
-10032,neutral,3,0.277,1,grounding,now,You seem neutral with intensity 3. Try grounding now to help shift into a better state.
-10033,overwhelmed,1,0.594,0,box_breathing,now,"You seem to be carrying a lot right now. Before anything else, try 4 slow box breaths — just 2 minutes can ease the weight."
-10034,neutral,4,0.454,1,rest,tomorrow_morning,You seem neutral with intensity 4. Try rest tomorrow morning to help shift into a better state.
-10035,focused,4,0.613,0,deep_work,within_15_min,You seem focused with intensity 4. Try deep work within 15 min to help shift into a better state.
-10036,restless,4,0.447,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before you try to move forward.
-10037,focused,1,0.199,1,deep_work,within_15_min,You seem focused with intensity 1. Try deep work within 15 min to help shift into a better state.
-10038,focused,4,0.263,1,deep_work,tomorrow_morning,You seem focused with intensity 4. Try deep work tomorrow morning to help shift into a better state.
-10039,mixed,4,0.56,0,rest,now,You seem mixed with intensity 4. Try rest now to help shift into a better state.
-10040,mixed,4,0.539,0,journaling,now,You seem mixed with intensity 4. Try journaling now to help shift into a better state.
-10041,overwhelmed,4,0.468,1,box_breathing,now,"You seem to be carrying a lot right now. Before anything else, try 4 slow box breaths — just 2 minutes can ease the weight."
-10042,neutral,5,0.204,1,rest,within_15_min,You seem neutral with intensity 5. Try rest within 15 min to help shift into a better state.
-10043,restless,1,0.407,1,movement,tomorrow_morning,You seem restless with intensity 1. Try movement tomorrow morning to help shift into a better state.
-10044,focused,1,0.234,1,deep_work,tonight,You seem focused with intensity 1. Try deep work tonight to help shift into a better state.
-10045,restless,4,0.566,1,rest,now,You seem restless with intensity 4. Try rest now to help shift into a better state.
-10046,focused,4,0.63,0,deep_work,tomorrow_morning,You seem focused with intensity 4. Try deep work tomorrow morning to help shift into a better state.
-10047,focused,4,0.725,0,deep_work,within_15_min,You seem focused with intensity 4. Try deep work within 15 min to help shift into a better state.
-10048,mixed,3,0.371,1,grounding,within_15_min,You seem mixed with intensity 3. Try grounding within 15 min to help shift into a better state.
-10049,restless,3,0.562,0,movement,tomorrow_morning,You seem restless with intensity 3. Try movement tomorrow morning to help shift into a better state.
-10050,restless,3,0.638,0,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before you try to move forward.
-10051,calm,3,0.549,1,deep_work,later_today,You seem calm with intensity 3. Try deep work later today to help shift into a better state.
-10052,restless,4,0.42,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before you try to move forward.
-10053,calm,4,0.685,1,rest,within_15_min,You seem calm with intensity 4. Try rest within 15 min to help shift into a better state.
-10054,overwhelmed,4,0.744,1,box_breathing,now,"You seem to be carrying a lot right now. Before anything else, try 4 slow box breaths — just 2 minutes can ease the weight."
-10055,mixed,4,0.54,1,grounding,tomorrow_morning,You seem mixed with intensity 4. Try grounding tomorrow morning to help shift into a better state.
-10056,focused,4,0.622,0,deep_work,tomorrow_morning,You seem focused with intensity 4. Try deep work tomorrow morning to help shift into a better state.
-10057,overwhelmed,4,0.638,0,rest,now,You seem overwhelmed with intensity 4. Try rest now to help shift into a better state.
-10058,overwhelmed,4,0.549,1,box_breathing,now,"You seem to be carrying a lot right now. Before anything else, try 4 slow box breaths — just 2 minutes can ease the weight."
-10059,mixed,3,0.321,1,grounding,tomorrow_morning,You seem mixed with intensity 3. Try grounding tomorrow morning to help shift into a better state.
-10060,restless,3,0.22,1,movement,tomorrow_morning,You seem restless with intensity 3. Try movement tomorrow morning to help shift into a better state.
-10061,neutral,4,0.497,1,grounding,tomorrow_morning,You seem neutral with intensity 4. Try grounding tomorrow morning to help shift into a better state.
-10062,restless,5,0.205,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before you try to move forward.
-10063,mixed,3,0.246,1,journaling,within_15_min,You seem mixed with intensity 3. Try journaling within 15 min to help shift into a better state.
-10064,neutral,4,0.393,1,journaling,now,You seem neutral with intensity 4. Try journaling now to help shift into a better state.
-10065,neutral,4,0.839,0,journaling,now,You seem neutral with intensity 4. Try journaling now to help shift into a better state.
-10066,restless,4,0.434,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before you try to move forward.
-10067,restless,4,0.439,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before you try to move forward.
-10068,overwhelmed,3,0.604,1,box_breathing,now,"You seem to be carrying a lot right now. Before anything else, try 4 slow box breaths — just 2 minutes can ease the weight."
-10069,neutral,3,0.849,1,journaling,now,You seem neutral with intensity 3. Try journaling now to help shift into a better state.
-10070,calm,4,0.207,1,deep_work,tonight,You seem calm with intensity 4. Try deep work tonight to help shift into a better state.
-10071,mixed,3,0.338,1,rest,now,You seem mixed with intensity 3. Try rest now to help shift into a better state.
-10072,neutral,4,0.224,1,grounding,within_15_min,You seem neutral with intensity 4. Try grounding within 15 min to help shift into a better state.
-10073,restless,4,0.424,1,rest,now,You seem restless with intensity 4. Try rest now to help shift into a better state.
-10074,mixed,4,0.676,1,grounding,within_15_min,You seem mixed with intensity 4. Try grounding within 15 min to help shift into a better state.
-10075,focused,4,0.337,1,deep_work,within_15_min,You seem focused with intensity 4. Try deep work within 15 min to help shift into a better state.
-10076,mixed,3,0.709,1,rest,now,You seem mixed with intensity 3. Try rest now to help shift into a better state.
-10077,neutral,4,0.84,0,journaling,now,You seem neutral with intensity 4. Try journaling now to help shift into a better state.
-10078,restless,4,0.404,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before you try to move forward.
-10079,restless,4,0.486,1,rest,now,You seem restless with intensity 4. Try rest now to help shift into a better state.
-10080,focused,4,0.311,1,deep_work,tomorrow_morning,You seem focused with intensity 4. Try deep work tomorrow morning to help shift into a better state.
-10081,restless,4,0.57,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before you try to move forward.
-10082,focused,4,0.243,1,deep_work,later_today,You seem focused with intensity 4. Try deep work later today to help shift into a better state.
-10083,focused,4,0.339,1,deep_work,later_today,You seem focused with intensity 4. Try deep work later today to help shift into a better state.
-10084,overwhelmed,3,0.805,1,rest,within_15_min,You seem overwhelmed with intensity 3. Try rest within 15 min to help shift into a better state.
-10085,restless,1,0.217,1,movement,now,You seem restless with intensity 1. Try movement now to help shift into a better state.
-10086,neutral,4,0.352,1,grounding,now,You seem neutral with intensity 4. Try grounding now to help shift into a better state.
-10087,mixed,3,0.708,1,grounding,tomorrow_morning,You seem mixed with intensity 3. Try grounding tomorrow morning to help shift into a better state.
-10088,neutral,4,0.252,1,journaling,now,You seem neutral with intensity 4. Try journaling now to help shift into a better state.
-10089,calm,4,0.286,1,rest,tonight,You seem calm with intensity 4. Try rest tonight to help shift into a better state.
-10090,mixed,4,0.563,1,journaling,now,You seem mixed with intensity 4. Try journaling now to help shift into a better state.
-10091,neutral,4,0.846,0,grounding,tomorrow_morning,You seem neutral with intensity 4. Try grounding tomorrow morning to help shift into a better state.
-10092,overwhelmed,4,0.545,0,box_breathing,now,"You seem to be carrying a lot right now. Before anything else, try 4 slow box breaths — just 2 minutes can ease the weight."
-10093,mixed,1,0.634,0,rest,now,You seem mixed with intensity 1. Try rest now to help shift into a better state.
-10094,focused,4,0.298,1,rest,within_15_min,You seem focused with intensity 4. Try rest within 15 min to help shift into a better state.
-10095,overwhelmed,4,0.399,1,box_breathing,now,"You seem to be carrying a lot right now. Before anything else, try 4 slow box breaths — just 2 minutes can ease the weight."
-10096,restless,4,0.205,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before you try to move forward.
-10097,restless,4,0.45,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before you try to move forward.
-10098,overwhelmed,4,0.559,0,rest,now,You seem overwhelmed with intensity 4. Try rest now to help shift into a better state.
-10099,mixed,4,0.418,1,grounding,now,Your signals are a bit mixed right now. Try a 5-minute grounding exercise before deciding your next step.
-10100,mixed,4,0.307,1,grounding,now,Your signals are a bit mixed right now. Try a 5-minute grounding exercise before deciding your next step.
-10101,focused,4,0.298,1,rest,tonight,You seem focused with intensity 4. Try rest tonight to help shift into a better state.
-10102,overwhelmed,1,0.596,1,box_breathing,now,"You seem to be carrying a lot right now. Before anything else, try 4 slow box breaths — just 2 minutes can ease the weight."
-10103,calm,4,0.572,0,rest,later_today,You seem calm with intensity 4. Try rest later today to help shift into a better state.
-10104,mixed,4,0.429,1,rest,now,You seem mixed with intensity 4. Try rest now to help shift into a better state.
-10105,calm,4,0.211,1,rest,within_15_min,You seem calm with intensity 4. Try rest within 15 min to help shift into a better state.
-10106,neutral,3,0.547,0,grounding,within_15_min,You seem neutral with intensity 3. Try grounding within 15 min to help shift into a better state.
-10107,focused,4,0.207,1,rest,later_today,You seem focused with intensity 4. Try rest later today to help shift into a better state.
-10108,neutral,4,0.227,1,rest,now,You seem neutral with intensity 4. Try rest now to help shift into a better state.
-10109,restless,3,0.202,1,box_breathing,within_15_min,You seem restless with intensity 3. Try box breathing within 15 min to help shift into a better state.
-10110,calm,1,0.232,1,light_planning,tomorrow_morning,You seem calm with intensity 1. Try light planning tomorrow morning to help shift into a better state.
-10111,mixed,4,0.532,1,rest,now,You seem mixed with intensity 4. Try rest now to help shift into a better state.
-10112,mixed,1,0.707,0,journaling,within_15_min,You seem mixed with intensity 1. Try journaling within 15 min to help shift into a better state.
-10113,calm,4,0.688,0,rest,within_15_min,You seem calm with intensity 4. Try rest within 15 min to help shift into a better state.
-10114,neutral,3,0.21,1,grounding,within_15_min,You seem neutral with intensity 3. Try grounding within 15 min to help shift into a better state.
-10115,calm,3,0.666,1,deep_work,tonight,You seem calm with intensity 3. Try deep work tonight to help shift into a better state.
-10116,overwhelmed,1,0.584,1,rest,tomorrow_morning,You seem overwhelmed with intensity 1. Try rest tomorrow morning to help shift into a better state.
-10117,neutral,5,0.258,1,rest,within_15_min,You seem neutral with intensity 5. Try rest within 15 min to help shift into a better state.
-10118,focused,5,0.429,1,deep_work,later_today,You seem focused with intensity 5. Try deep work later today to help shift into a better state.
-10119,mixed,4,0.345,1,grounding,tomorrow_morning,You seem mixed with intensity 4. Try grounding tomorrow morning to help shift into a better state.
-10120,mixed,3,0.334,1,grounding,within_15_min,You seem mixed with intensity 3. Try grounding within 15 min to help shift into a better state.
+10001,focused,3,0.742,0,deep_work,tomorrow_morning,You seem focused right now (intensity 3). Try deep work tomorrow morning.
+10002,focused,4,0.302,1,rest,later_today,You seem focused right now (intensity 4). Try rest later today.
+10003,focused,5,0.289,1,journaling,tonight,You seem focused right now (intensity 5). Try journaling tonight.
+10004,focused,4,0.63,0,journaling,within_15_min,You seem focused right now (intensity 4). Try journaling within 15 min.
+10005,neutral,4,0.237,1,rest,within_15_min,You seem neutral right now (intensity 4). Try rest within 15 min.
+10006,mixed,4,0.252,1,journaling,now,You seem mixed right now (intensity 4). Try journaling now.
+10007,restless,4,0.382,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before moving forward.
+10008,overwhelmed,3,0.598,0,box_breathing,within_15_min,You seem overwhelmed right now (intensity 3). Try box breathing within 15 min.
+10009,restless,4,0.548,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before moving forward.
+10010,overwhelmed,2,0.399,1,rest,tomorrow_morning,You seem overwhelmed right now (intensity 2). Try rest tomorrow morning.
+10011,overwhelmed,4,0.555,0,box_breathing,now,You're carrying a lot right now. Try 4 slow box breaths first just 2 minutes can take the edge off.
+10012,calm,1,0.22,1,light_planning,later_today,You seem calm right now (intensity 1). Try light planning later today.
+10013,focused,1,0.209,1,deep_work,later_today,You seem focused right now (intensity 1). Try deep work later today.
+10014,focused,3,0.542,1,journaling,later_today,You seem focused right now (intensity 3). Try journaling later today.
+10015,calm,4,0.367,1,deep_work,within_15_min,You're settled. Give yourself 10 minutes to set up then get into focused work.
+10016,neutral,4,0.271,1,journaling,now,You seem neutral right now (intensity 4). Try journaling now.
+10017,mixed,3,0.631,1,rest,now,You seem mixed right now (intensity 3). Try rest now.
+10018,mixed,4,0.709,0,grounding,now,Signals are a bit mixed. Try 5 minutes of grounding before deciding your next step.
+10019,focused,4,0.426,1,deep_work,later_today,You seem focused right now (intensity 4). Try deep work later today.
+10020,focused,4,0.202,1,rest,tonight,You seem focused right now (intensity 4). Try rest tonight.
+10021,overwhelmed,3,0.744,0,rest,now,You seem overwhelmed right now (intensity 3). Try rest now.
+10022,calm,2,0.691,0,deep_work,within_15_min,You're settled. Give yourself 10 minutes to set up then get into focused work.
+10023,neutral,4,0.369,1,rest,tomorrow_morning,You seem neutral right now (intensity 4). Try rest tomorrow morning.
+10024,neutral,4,0.247,1,grounding,now,You seem neutral right now (intensity 4). Try grounding now.
+10025,calm,1,0.238,1,rest,within_15_min,You seem calm right now (intensity 1). Try rest within 15 min.
+10026,overwhelmed,1,0.555,0,box_breathing,now,You're carrying a lot right now. Try 4 slow box breaths first just 2 minutes can take the edge off.
+10027,focused,5,0.208,1,journaling,tonight,You seem focused right now (intensity 5). Try journaling tonight.
+10028,calm,2,0.205,1,light_planning,later_today,You seem calm right now (intensity 2). Try light planning later today.
+10029,overwhelmed,3,0.779,1,box_breathing,within_15_min,You seem overwhelmed right now (intensity 3). Try box breathing within 15 min.
+10030,mixed,4,0.235,1,rest,tomorrow_morning,You seem mixed right now (intensity 4). Try rest tomorrow morning.
+10031,focused,4,0.592,0,rest,within_15_min,You seem focused right now (intensity 4). Try rest within 15 min.
+10032,neutral,3,0.277,1,grounding,now,You seem neutral right now (intensity 3). Try grounding now.
+10033,overwhelmed,1,0.594,0,box_breathing,now,You're carrying a lot right now. Try 4 slow box breaths first just 2 minutes can take the edge off.
+10034,neutral,4,0.454,1,rest,tomorrow_morning,You seem neutral right now (intensity 4). Try rest tomorrow morning.
+10035,focused,4,0.613,0,deep_work,within_15_min,You seem focused right now (intensity 4). Try deep work within 15 min.
+10036,restless,4,0.447,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before moving forward.
+10037,focused,1,0.199,1,deep_work,within_15_min,You seem focused right now (intensity 1). Try deep work within 15 min.
+10038,focused,4,0.263,1,deep_work,tomorrow_morning,You seem focused right now (intensity 4). Try deep work tomorrow morning.
+10039,mixed,4,0.56,0,rest,now,You seem mixed right now (intensity 4). Try rest now.
+10040,mixed,4,0.539,0,journaling,now,You seem mixed right now (intensity 4). Try journaling now.
+10041,overwhelmed,4,0.468,1,box_breathing,now,You're carrying a lot right now. Try 4 slow box breaths first just 2 minutes can take the edge off.
+10042,neutral,5,0.204,1,rest,within_15_min,You seem neutral right now (intensity 5). Try rest within 15 min.
+10043,restless,1,0.407,1,movement,tomorrow_morning,You seem restless right now (intensity 1). Try movement tomorrow morning.
+10044,focused,1,0.234,1,deep_work,tonight,You seem focused right now (intensity 1). Try deep work tonight.
+10045,restless,4,0.566,1,rest,now,You seem restless right now (intensity 4). Try rest now.
+10046,focused,4,0.63,0,deep_work,tomorrow_morning,You seem focused right now (intensity 4). Try deep work tomorrow morning.
+10047,focused,4,0.725,0,deep_work,within_15_min,You seem focused right now (intensity 4). Try deep work within 15 min.
+10048,mixed,3,0.371,1,grounding,within_15_min,You seem mixed right now (intensity 3). Try grounding within 15 min.
+10049,restless,3,0.562,0,movement,tomorrow_morning,You seem restless right now (intensity 3). Try movement tomorrow morning.
+10050,restless,3,0.638,0,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before moving forward.
+10051,calm,3,0.549,1,deep_work,later_today,You seem calm right now (intensity 3). Try deep work later today.
+10052,restless,4,0.42,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before moving forward.
+10053,calm,4,0.685,1,rest,within_15_min,You seem calm right now (intensity 4). Try rest within 15 min.
+10054,overwhelmed,4,0.744,1,box_breathing,now,You're carrying a lot right now. Try 4 slow box breaths first just 2 minutes can take the edge off.
+10055,mixed,4,0.54,1,grounding,tomorrow_morning,You seem mixed right now (intensity 4). Try grounding tomorrow morning.
+10056,focused,4,0.622,0,deep_work,tomorrow_morning,You seem focused right now (intensity 4). Try deep work tomorrow morning.
+10057,overwhelmed,4,0.638,0,rest,now,You seem overwhelmed right now (intensity 4). Try rest now.
+10058,overwhelmed,4,0.549,1,box_breathing,now,You're carrying a lot right now. Try 4 slow box breaths first just 2 minutes can take the edge off.
+10059,mixed,3,0.321,1,grounding,tomorrow_morning,You seem mixed right now (intensity 3). Try grounding tomorrow morning.
+10060,restless,3,0.22,1,movement,tomorrow_morning,You seem restless right now (intensity 3). Try movement tomorrow morning.
+10061,neutral,4,0.497,1,grounding,tomorrow_morning,You seem neutral right now (intensity 4). Try grounding tomorrow morning.
+10062,restless,5,0.205,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before moving forward.
+10063,mixed,3,0.246,1,journaling,within_15_min,You seem mixed right now (intensity 3). Try journaling within 15 min.
+10064,neutral,4,0.393,1,journaling,now,You seem neutral right now (intensity 4). Try journaling now.
+10065,neutral,4,0.839,0,journaling,now,You seem neutral right now (intensity 4). Try journaling now.
+10066,restless,4,0.434,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before moving forward.
+10067,restless,4,0.439,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before moving forward.
+10068,overwhelmed,3,0.604,1,box_breathing,now,You're carrying a lot right now. Try 4 slow box breaths first just 2 minutes can take the edge off.
+10069,neutral,3,0.849,1,journaling,now,You seem neutral right now (intensity 3). Try journaling now.
+10070,calm,4,0.207,1,deep_work,tonight,You seem calm right now (intensity 4). Try deep work tonight.
+10071,mixed,3,0.338,1,rest,now,You seem mixed right now (intensity 3). Try rest now.
+10072,neutral,4,0.224,1,grounding,within_15_min,You seem neutral right now (intensity 4). Try grounding within 15 min.
+10073,restless,4,0.424,1,rest,now,You seem restless right now (intensity 4). Try rest now.
+10074,mixed,4,0.676,1,grounding,within_15_min,You seem mixed right now (intensity 4). Try grounding within 15 min.
+10075,focused,4,0.337,1,deep_work,within_15_min,You seem focused right now (intensity 4). Try deep work within 15 min.
+10076,mixed,3,0.709,1,rest,now,You seem mixed right now (intensity 3). Try rest now.
+10077,neutral,4,0.84,0,journaling,now,You seem neutral right now (intensity 4). Try journaling now.
+10078,restless,4,0.404,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before moving forward.
+10079,restless,4,0.486,1,rest,now,You seem restless right now (intensity 4). Try rest now.
+10080,focused,4,0.311,1,deep_work,tomorrow_morning,You seem focused right now (intensity 4). Try deep work tomorrow morning.
+10081,restless,4,0.57,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before moving forward.
+10082,focused,4,0.243,1,deep_work,later_today,You seem focused right now (intensity 4). Try deep work later today.
+10083,focused,4,0.339,1,deep_work,later_today,You seem focused right now (intensity 4). Try deep work later today.
+10084,overwhelmed,3,0.805,1,rest,within_15_min,You seem overwhelmed right now (intensity 3). Try rest within 15 min.
+10085,restless,1,0.217,1,movement,now,You seem restless right now (intensity 1). Try movement now.
+10086,neutral,4,0.352,1,grounding,now,You seem neutral right now (intensity 4). Try grounding now.
+10087,mixed,3,0.708,1,grounding,tomorrow_morning,You seem mixed right now (intensity 3). Try grounding tomorrow morning.
+10088,neutral,4,0.252,1,journaling,now,You seem neutral right now (intensity 4). Try journaling now.
+10089,calm,4,0.286,1,rest,tonight,You seem calm right now (intensity 4). Try rest tonight.
+10090,mixed,4,0.563,1,journaling,now,You seem mixed right now (intensity 4). Try journaling now.
+10091,neutral,4,0.846,0,grounding,tomorrow_morning,You seem neutral right now (intensity 4). Try grounding tomorrow morning.
+10092,overwhelmed,4,0.545,0,box_breathing,now,You're carrying a lot right now. Try 4 slow box breaths first just 2 minutes can take the edge off.
+10093,mixed,1,0.634,0,rest,now,You seem mixed right now (intensity 1). Try rest now.
+10094,focused,4,0.298,1,rest,within_15_min,You seem focused right now (intensity 4). Try rest within 15 min.
+10095,overwhelmed,4,0.399,1,box_breathing,now,You're carrying a lot right now. Try 4 slow box breaths first just 2 minutes can take the edge off.
+10096,restless,4,0.205,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before moving forward.
+10097,restless,4,0.45,1,box_breathing,now,There's scattered energy in you today. A quick breathing reset will help you land before moving forward.
+10098,overwhelmed,4,0.559,0,rest,now,You seem overwhelmed right now (intensity 4). Try rest now.
+10099,mixed,4,0.418,1,grounding,now,Signals are a bit mixed. Try 5 minutes of grounding before deciding your next step.
+10100,mixed,4,0.307,1,grounding,now,Signals are a bit mixed. Try 5 minutes of grounding before deciding your next step.
+10101,focused,4,0.298,1,rest,tonight,You seem focused right now (intensity 4). Try rest tonight.
+10102,overwhelmed,1,0.596,1,box_breathing,now,You're carrying a lot right now. Try 4 slow box breaths first just 2 minutes can take the edge off.
+10103,calm,4,0.572,0,rest,later_today,You seem calm right now (intensity 4). Try rest later today.
+10104,mixed,4,0.429,1,rest,now,You seem mixed right now (intensity 4). Try rest now.
+10105,calm,4,0.211,1,rest,within_15_min,You seem calm right now (intensity 4). Try rest within 15 min.
+10106,neutral,3,0.547,0,grounding,within_15_min,You seem neutral right now (intensity 3). Try grounding within 15 min.
+10107,focused,4,0.207,1,rest,later_today,You seem focused right now (intensity 4). Try rest later today.
+10108,neutral,4,0.227,1,rest,now,You seem neutral right now (intensity 4). Try rest now.
+10109,restless,3,0.202,1,box_breathing,within_15_min,You seem restless right now (intensity 3). Try box breathing within 15 min.
+10110,calm,1,0.232,1,light_planning,tomorrow_morning,You seem calm right now (intensity 1). Try light planning tomorrow morning.
+10111,mixed,4,0.532,1,rest,now,You seem mixed right now (intensity 4). Try rest now.
+10112,mixed,1,0.707,0,journaling,within_15_min,You seem mixed right now (intensity 1). Try journaling within 15 min.
+10113,calm,4,0.688,0,rest,within_15_min,You seem calm right now (intensity 4). Try rest within 15 min.
+10114,neutral,3,0.21,1,grounding,within_15_min,You seem neutral right now (intensity 3). Try grounding within 15 min.
+10115,calm,3,0.666,1,deep_work,tonight,You seem calm right now (intensity 3). Try deep work tonight.
+10116,overwhelmed,1,0.584,1,rest,tomorrow_morning,You seem overwhelmed right now (intensity 1). Try rest tomorrow morning.
+10117,neutral,5,0.258,1,rest,within_15_min,You seem neutral right now (intensity 5). Try rest within 15 min.
+10118,focused,5,0.429,1,deep_work,later_today,You seem focused right now (intensity 5). Try deep work later today.
+10119,mixed,4,0.345,1,grounding,tomorrow_morning,You seem mixed right now (intensity 4). Try grounding tomorrow morning.
+10120,mixed,3,0.334,1,grounding,within_15_min,You seem mixed right now (intensity 3). Try grounding within 15 min.
